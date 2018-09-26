@@ -18,8 +18,7 @@ pl.gray()
 pl.matshow(digits.images[8]) 
 pl.show()
 
-#Analyzing image pixels. Each element represents the pixel of our grayscale image.
-#The value range from 0 to 255 for 8 bit pixel
+#Analyzing image pixels. Each element represents the pixel of our grayscale image. The value range from 0 to 255 for 8 bit pixel
 
 digits.images[8]
 

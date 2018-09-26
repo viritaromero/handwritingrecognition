@@ -16,4 +16,6 @@ If you have an Apple watch, you know this device is getting better every year. A
 
 One of my favorite uses of Machine Learning is using online recommendation systems that allows retailers to offer you personalized recommendations based on your previous activity.
 
-This code uses Python’s machine learning library, scikitlearn, to predict human handwriting. The result is pretty amazing!
+This code uses Python’s machine learning library, scikitlearn, to predict human handwriting. This is a personal learning project but the result is pretty amazing!
+
+

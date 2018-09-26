@@ -18,4 +18,5 @@ One of my favorite uses of Machine Learning is using online recommendation syste
 
 This code uses Python’s machine learning library, scikitlearn, to predict human handwriting. This is a personal learning project but the result is pretty amazing!
 
+<img src="https://user-images.githubusercontent.com/31528909/46103045-6b57bc80-c195-11e8-94df-d32cc53ff1b4.PNG">
 

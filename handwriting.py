@@ -75,7 +75,9 @@ i=231
 pl.gray() 
 pl.matshow(digits.images[i]) 
 pl.show() 
+
 #Make sure to add an extra set of square brackets.
+
 classifier.predict(x[[i]])
 
 
